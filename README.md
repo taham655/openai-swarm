@@ -12,5 +12,7 @@ Agents
 ## Features
 
 `Order Tracking`: Users can inquire about the status of their orders using order IDs.
+
 `Price Estimation`: Users can get shipping cost estimates by providing parcel dimensions and weight.
+
 `Intelligent Triaging`: The system automatically directs user queries to the most appropriate agent.
